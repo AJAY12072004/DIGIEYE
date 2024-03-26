@@ -59,7 +59,7 @@ y = dd[['Schimers1Lefteye', 'Schimers1righteye', 'Schimers2Lefteye', 'Schimers2r
 
 
 # Splitting the dataset into train and test sets
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2)
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3)
 
 # Build and train the model
 # Build and train the model
